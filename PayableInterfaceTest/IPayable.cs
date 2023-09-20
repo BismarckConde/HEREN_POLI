@@ -9,6 +9,7 @@ namespace PayableInterfaceTest
     // IPayable interface declaration
     public interface IPayable
     {
-        decimal GetPaymentAmount(); // calculate payment; no implementation
+        decimal GetPaymentAmount(); // calculate payment; no implementation 
+
     }
 }
