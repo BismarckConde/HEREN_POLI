@@ -17,6 +17,7 @@ namespace PayableInterfaceTest
         public Invoice(string partNumber, string partDescription, int quantity, decimal princePerItem)
         {
 
+           
         }
 
         public decimal GetPaymentAmount()
